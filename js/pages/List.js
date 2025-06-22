@@ -106,7 +106,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Recording has to have clicks/taps if the level is above hard demon difficulty. Edited audio only does not count
+                        Recording has to have clicks/taps. Edited audio only does not count
                     </p>
                     
                     <p>
